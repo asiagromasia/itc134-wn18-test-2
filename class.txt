@@ -5,3 +5,5 @@ This is a first version of class.txt
 Here I added a new line in my test branch
 
 Here I added another line in my test branch.
+
+Here I added a line from master branch.
